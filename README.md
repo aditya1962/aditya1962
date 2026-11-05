@@ -19,6 +19,7 @@
 <h3 align="left">News</h3>
 <p align="left">
   <ul>
+    <li>Nov 05, 2026 - PostOShare <a href="https://github.com/PostOShare/PostWebApi">PostWebApi </a> release 1.0.0 </li>
     <li>Oct 29, 2026 - PostOShare <a href="https://github.com/PostOShare/PostWebAPI">PostWebAPI </a> has been selected for the <a href="https://hub.xerj.org/contributors/aditya1962"> XERJ Corpus Hub </a>, the open reference memory AI coding agents search before they write code.</li>
     <li>Oct 16, 2026 - PostOShare <a href="https://github.com/PostOShare/IdentityWebApi">IdentityWebApi </a> release 3.0.0 </li>
     <li>Apr 17, 2026 - PostOShare <a href="https://github.com/PostOShare/PostOShareUI">PostOShareUI </a> release 1.0.0 </li>
